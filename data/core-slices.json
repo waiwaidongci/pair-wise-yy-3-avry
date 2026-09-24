@@ -7,6 +7,8 @@
       "coreBox": "BX-09",
       "depth": "128.4-128.8m",
       "owner": "陆川",
+      "client": "省地质调查院",
+      "urgent": false,
       "status": "制片中",
       "delivery": "未交付",
       "slices": [
@@ -30,5 +32,6 @@
         }
       ]
     }
-  ]
+  ],
+  "bills": []
 }
